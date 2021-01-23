@@ -1,4 +1,4 @@
-ARG ARCH=
+ARG ARCH=arm64
 
 FROM ${ARCH}golang:1.15.5-alpine3.12 as builder
 
