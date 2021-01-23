@@ -1,7 +1,6 @@
 # wireguard-go docker
 
-[![](https://images.microbadger.com/badges/version/masipcat/wireguard-go.svg)](https://hub.docker.com/r/masipcat/wireguard-go/tags) [![](https://images.microbadger.com/badges/image/masipcat/wireguard-go.svg)](https://hub.docker.com/r/masipcat/wireguard-go/tags)
-
+THIS IS A FORK TO ALLOW WG1.CONF USAGE FOR WIREGUARD-GO ON MY UDM PRO
 ## Setup
 
 First of all you need a key pair for the server. Use the following command to generate the public and private keys:
